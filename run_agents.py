@@ -4,12 +4,8 @@
 import os
 import subprocess
 import re
-    #def run_ext_agents(agent_abs):
-    #    ret = subprocess.call([agent_abs,])
-    #    if ret:
-    #        print("{}: failed".format(agent_abs))
-    #    else:
-    #        print("{}: success".format(agent_abs))
+
+
 hc_list={}
 red = "\033[1;31m"
 key_format = "\033[1;34m" # Blue 

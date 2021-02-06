@@ -7,5 +7,9 @@ out=`curl -sk $API_URL/healthz`
 if [[ $out == ok ]]
 then
        echo -n "EXT: API Health Check,OK"	
+else 
+       echo -n "EXT: API Health Check,FAILED"	
+
 fi
+
 

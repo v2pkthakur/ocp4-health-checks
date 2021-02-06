@@ -1,7 +1,8 @@
 #!/bin/bash
 # Check to validate Console URL is accessible
 #
-CONSOLE='https://console-openshift-console.apps.cluster-0307.0307.sandbox629.opentlc.com'
+CONSOLE='http://www.google.com'
+#CONSOLE='https://console-openshift-console.apps.cluster-0307.0307.sandbox629.opentlc.com'
 
 http_code=`curl -s -o /dev/null -w "%{http_code}" $CONSOLE`
 
