@@ -22,6 +22,9 @@ for root, dirs, files in os.walk('./ext'):
        agent_exec=subprocess.run(agent_abs,capture_output='True')
        agent_out=agent_exec.stdout.decode()
        outcome=agent_out.split(',')
+       if (len(outcome)!=2):
+           print("Agent Not configured Properly", agent_abs)
+           continue
        hc_list[outcome[0]]=outcome[1]
 
 # Print the complete Health Check List and OutComes
