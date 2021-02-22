@@ -1,0 +1,141 @@
+{
+  "name": "3scale-operator"
+}
+{
+  "name": "advanced-cluster-management"
+}
+{
+  "name": "amq-broker"
+}
+{
+  "name": "amq-broker-lts"
+}
+{
+  "name": "amq-online"
+}
+{
+  "name": "amq-streams"
+}
+{
+  "name": "amq7-interconnect-operator"
+}
+{
+  "name": "apicast-operator"
+}
+{
+  "name": "awx-resource-operator"
+}
+{
+  "name": "businessautomation-operator"
+}
+{
+  "name": "cluster-kube-descheduler-operator"
+}
+{
+  "name": "cluster-logging"
+}
+{
+  "name": "clusterresourceoverride"
+}
+{
+  "name": "codeready-workspaces"
+}
+{
+  "name": "compliance-operator"
+}
+{
+  "name": "container-security-operator"
+}
+{
+  "name": "datagrid"
+}
+{
+  "name": "eap"
+}
+{
+  "name": "elasticsearch-operator"
+}
+{
+  "name": "file-integrity-operator"
+}
+{
+  "name": "fuse-apicurito"
+}
+{
+  "name": "fuse-console"
+}
+{
+  "name": "fuse-online"
+}
+{
+  "name": "jaeger-product"
+}
+{
+  "name": "kiali-ossm"
+}
+{
+  "name": "kubevirt-hyperconverged"
+}
+{
+  "name": "local-storage-operator"
+}
+{
+  "name": "metering-ocp"
+}
+{
+  "name": "mtc-operator"
+}
+{
+  "name": "nfd"
+}
+{
+  "name": "ocs-operator"
+}
+{
+  "name": "openshift-jenkins-operator"
+}
+{
+  "name": "openshift-pipelines-operator-rh"
+}
+{
+  "name": "performance-addon-operator"
+}
+{
+  "name": "ptp-operator"
+}
+{
+  "name": "quay-bridge-operator"
+}
+{
+  "name": "quay-operator"
+}
+{
+  "name": "red-hat-camel-k"
+}
+{
+  "name": "rh-service-binding-operator"
+}
+{
+  "name": "rhsso-operator"
+}
+{
+  "name": "serverless-operator"
+}
+{
+  "name": "service-registry-operator"
+}
+{
+  "name": "servicemeshoperator"
+}
+{
+  "name": "sriov-network-operator"
+}
+{
+  "name": "vertical-pod-autoscaler"
+}
+{
+  "name": "web-terminal"
+}
+{
+  "name": "windows-machine-config-operator"
+}
